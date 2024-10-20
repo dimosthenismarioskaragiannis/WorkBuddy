@@ -1,4 +1,19 @@
-This is a simple Hr Managment Api , to demonstrate web development  utilizing .NET core and c#. It processes request leaves from my angular frontend webapi.
-Authentication: Pasword Hashing and Salting to store in the db.  Also using JWTokens
+DEMO: https://workbuddyclient-ehgmbeefcpewaveq.northeurope-01.azurewebsites.net/
 
-Todo : Add administrative users for approving requests , role managment , implementing ASP.NET Identity.
+//DISCLAIMER. PLEASE USE THIS AZURE LINK TO TEST THE WEB APP ONLY IF YOU ARE A RECRUITER. IF YOU ARE A DEVELOPER WHO WANTS TO JUST TEST THE APPLICATION  PLEASE FORK THE FILES AND RUN IT IN YOUR OWN MACHINE.//
+
+
+
+Publishing and Deployment: Azure
+
+Technologies: C# .NET Core (backend), Angular (frontend) , SQL Server and EntityFrameworkCore (databese)
+
+Authentication: JWT (JSON Web Tokens) for secure login
+
+Security: Password Hashing and Salting for secure storage
+
+This project is a demo to showcase the integration of modern web technologies in a HR hub. It demonstrates how Angular and .NET Core can be used together to do some simple post/get requests to the api.
+
+Note: We recommend that you dont use commonly used passwords as this project is still in development and serves as a demonstration of a junior development project in these technologies.
+
+Todo: Add identity roles and use .net Identity, Better ui intergration, Administration managment for HR employees and more
