@@ -5,7 +5,7 @@ DEMO: https://workbuddyclient-ehgmbeefcpewaveq.northeurope-01.azurewebsites.net/
 
 Publishing and Deployment: Azure
 
-Technologies: C# .NET Core (backend), Angular (frontend) , SQL Server and EntityFrameworkCore (databese)
+Technologies: C# .NET Core (backend), Angular (frontend) , SQL Server and EntityFrameworkCore (database)
 
 Authentication: JWT (JSON Web Tokens) for secure login
 
